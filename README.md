@@ -1,5 +1,3 @@
-Sure, here is a README.md for a POS for a restaurant using PHP, using the style and flow of the LMS example:
-
 ## Restaurant POS System
 
 This is a PHP-based point-of-sale (POS) system for restaurants. It allows users to manage orders, inventory, and customer data.
